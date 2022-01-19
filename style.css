@@ -1,0 +1,23 @@
+#form{
+ align-content: center;
+}
+
+#intro{
+background-image:url(mc%20bg%201.jpg.webp);
+    background-size:cover;
+}
+
+#only{
+    
+}
+
+#feedback{
+        background-image: url("https://cdn.discordapp.com/attachments/902425681596649502/933401536556576859/blur_bg.jpg");
+    background-size: cover;
+}
+
+#heading{
+    font-size: 60px;
+    font-family:serif;
+   text-emphasis-color: brown
+}
